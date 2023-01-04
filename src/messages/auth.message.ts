@@ -1,0 +1,10 @@
+export const WRONG_CREDENTIALS = 'Tài khoản hoặc mật khẩu chưa đúng. Vui lòng liên hệ phòng nhân sự!';
+export const USER_NOT_FOUND = 'Tài khoản người dùng không tồn tại trong hệ thống.';
+export const USER_NOT_WORK = 'Tài khoản người dùng hiện không còn hiệu lực.';
+export const REFRESH_TOKEN_INVALID = 'Mã token đã hết hạn hoặc không hợp lệ, vui lòng đăng nhập lại';
+export const NO_TOKEN_HEADER = 'Token chưa được truyền vào headers';
+export const NO_PERMISSION = 'Bạn không có quyền thao tác chức năng này';
+export const USER_EXISTED = 'Tên đăng nhập đã tồn tại. Vui lòng chọn tên đăng nhập khác';
+export const SERVICE_API_NOT_FOUND = 'Api chưa được đăng ký trên Management app';
+export const INVALID_TOKEN = 'Token hết hạn/không hợp lệ.';
+export const PASSWORD_CHANGE = 'Mật khẩu đã được cập nhật.';
